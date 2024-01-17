@@ -1,0 +1,55 @@
+.navbar-brand {
+    position: relative;
+}
+
+#logo {
+    width: 50px;
+}
+
+#portalart-title {
+    color: #fff;;
+    position: absolute;
+    bottom: -2px;
+    font-size: 1.875rem;
+    font-weight: bold;
+}
+
+#main-navbar {
+    background-color: #023110;
+}
+
+#search-form {
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 10px;
+    width: 50%;
+    margin-left: 180px;
+}
+
+#search-form .form-control {
+    border: none;
+    width: 90%;
+    box-shadow: none;
+}
+
+#navbar-nav {
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #ccc;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/* HOME */
+
+
+
+
+
+
+/* FOOTER */
