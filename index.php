@@ -74,7 +74,7 @@ require_once("db.php");
         <div id="footer-links-container">
             <ul>
                 <li><a href="">Adicionar Artista</a></li>
-                <li><a href="">Adicionar crítica</a></li>
+                <li><a href="">Adicionar Crítica</a></li>
                 <li><a href="">Entrar / Registrar</a></li>
             </ul>
         </div>
